@@ -321,15 +321,7 @@ streamlit run customer_churn_dashboard.py
 
 ---
 
-# 📸 DASHBOARD PREVIEW
 
-Add screenshots here after deployment.
-
-```text
-screenshots/dashboard_home.png
-screenshots/churn_analysis.png
-screenshots/prediction_module.png
-```
 
 ---
 
