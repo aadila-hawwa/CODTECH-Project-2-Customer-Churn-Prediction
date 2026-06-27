@@ -320,6 +320,17 @@ streamlit run customer_churn_dashboard.py
 ```
 
 ---
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://codtech-project-2-customer-churn-prediction-8m4qrsnjzgvbg8khfm.streamlit.app/)
+
+---
+
+# 🌐 LIVE APPLICATION
+
+🚀 **Try the deployed Customer Churn Prediction Dashboard**
+
+### 🔗 [Customer Churn Prediction Dashboard](https://codtech-project-2-customer-churn-prediction-8m4qrsnjzgvbg8khfm.streamlit.app/)
+
+---
 
 
 
